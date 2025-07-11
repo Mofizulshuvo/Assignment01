@@ -143,7 +143,6 @@ img{
 }
 
 .cards{
-    /* margin:60px; */
     margin-top:0px;
     display: flex;
     justify-content: space-between;
@@ -214,23 +213,21 @@ img{
     width: 400px;
     height: 35px;
     padding:10px;
+    padding-top:0%;
     font-size: 16px;
     border-radius: 8px;
     border: 1px solid #ccc;
 }
-.form textarea{
-    
+.form .text-area{
     width: 400px;
-    height: 200px;
-    padding:10px;
-    font-size: 16px;
-    border-radius: 8px;
+    height: 100px;
+    border-radius:8px;
     border: 1px solid #ccc;
 }
 
-.get-btn{
+.get-btn2{
     margin-top: 10px;
-    width:410px;
+    width:422px;
 }
 
 
@@ -242,3 +239,4 @@ img{
 .heading{
     font-size: 45px;
 }
+
